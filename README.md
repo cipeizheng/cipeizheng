@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cipeizheng
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning cryptography.
 - 💞️ I’m looking to collaborate on ...?
 - 📫 How to reach me: My email: chiachenzheng@gmail.com
